@@ -9702,10 +9702,10 @@
                             display: inline;
                         }
                     }</style>
-                    <div id="lg"><img hidefocus="true" src="images/baidu4.png" width="270" height="129"></div>
+                    <div id="lg"><img hidefocus="true" src="images/baidu.png" width="270" height="129"></div>
                     <a href="javascript:;" id="result_logo" onmousedown="return c({'fm':'tab','tab':'logo'})"
-                       target="_self"><img class="index-logo-src" src="images/baidu2.jpg" alt="到百度首页" title="到百度首页"><img
-                            class="index-logo-srcnew" src="images/baidu3.jpg" alt="到百度首页" title="到百度首页"></a>
+                       target="_self"><img class="index-logo-src" src="images/baidu.png" alt="到百度首页" title="到百度首页"><img
+                            class="index-logo-srcnew" src="images/baidu.png" alt="到百度首页" title="到百度首页"></a>
                     <div id="form" name="f" class="fm "><input type="hidden" name="ie" value="utf-8"><input
                             type="hidden" name="f" value="8"><input type="hidden" name="rsv_bp" value="1"><input
                             type="hidden" name="ch" value=""><input type="hidden" name="tn" value="SE_PclogoS_8whnvm25"><input
@@ -9713,7 +9713,7 @@
                                                                                                class="s_ipt"
                                                                                                maxlength="255"
                                                                                                autocomplete="off"
-                                                                                               value="{{贾成舒}}"></span><span
+                                                                                               value="{{替换姓名}}"></span><span
                             class="bg s_btn_wr"><input type="submit" id="su" value="百度一下" class="bg s_btn"></span><span
                             class="tools"><span id="mHolder">
                                     <div id="mCon"><span>输入法</span></div>
@@ -10551,16 +10551,16 @@
             'F3':'54E5263F',
             'T':'1589442239',
                         'y':'FFB95FFF'
-                                                }" href="javascript:;" target="_self">{{晚点遇见你，余生都是你。}}</a></h3>
+                                                }" href="javascript:;" target="_self">{{替换标题1}}</a></h3>
                     <div class="c-row c-gap-top-small">
                         <div class="general_image_pic c-span6"><a class="c-img6" style="height:75px" href="javascript:;"
                                                                   target="_self"><img class="c-img c-img6"
                                                                                       src="images/pic1.jpg"
                                                                                       style="height:75px;"></a></div>
                         <div class="c-span18 c-span-last">
-                            <div class="c-abstract"></div>
+                            <div class="c-abstract">{{替换段落1-1}}</div>
                             <div class="f13"><a target="_self" href="javascript:;" class="c-showurl"
-                                                style="text-decoration:none;">https://i.{{贾成舒}}.cn/&nbsp;</a>
+                                                style="text-decoration:none;">https://i.{{替换姓名}}.cn/&nbsp;</a>
                             </div>
                         </div>
                     </div>
@@ -10572,7 +10572,7 @@
                      data-click="{'p1':'3','rsv_bdr':'0','fm':'albk',rsv_stl:''}">
                     <h3 class="t c-gap-bottom-small">
                         <a href="javascript:;" target="_self">
-                            <em>{{不要愁老之将至，你老了一定很可爱。}}</em></a>
+                            <em>{{替换标题2}}</em></a>
                     </h3>
                     <div class="c-row">
                         <div class="op-bk-polysemy-video__wrap c-gap-bottom">
@@ -10599,7 +10599,7 @@
                             </div>
                         </div>
                         <div class="c-span18 c-span-last">
-                            <p></p>
+                            <p>{{替换段落2-1}}</p>
                             <p>
                                 <a class="c-gap-right-small op-se-listen-recommend" href="javascript:;" target="_self"
                                    title="可爱">可爱</a>
@@ -10612,7 +10612,7 @@
                                 <a class="c-gap-right-small op-se-listen-recommend" href="javascript:;" target="_self"
                                    title="安静">安静</a>
                             </p>
-                            <p class=" op-bk-polysemy-move"><span class="c-showurl">https://love.{{贾成舒}}.com/ </span>
+                            <p class=" op-bk-polysemy-move"><span class="c-showurl">https://love.{{替换姓名}}.com/ </span>
                             </p>
                         </div>
                     </div>
@@ -10656,14 +10656,14 @@
             'F3':'54E5263F',
             'T':'1589442239',
                         'y':'BFEDEDBA'
-                                                }" href="javascript:;" target="_self">{{你是我安稳岁月里的节外生枝。}}</a></h3>
+                                                }" href="javascript:;" target="_self">{{替换标题5}}</a></h3>
                     <div class="c-row c-gap-top-small">
                         <div class="general_image_pic c-span6"><a class="c-img6" style="height:75px" href="javascript:;"
                                                                   target="_self"><img class="c-img c-img6"
                                                                                       src="images/pic3.jpg"
                                                                                       style="height:75px;"></a></div>
                         <div class="c-span18 c-span-last">
-                            <div class="c-abstract"></div>
+                            <div class="c-abstract">{{替换段落5-1}}</div>
                             <div class="f13"><a target="_self" href="javascript:;" class="c-showurl"
                                                 style="text-decoration:none;">
                                 <style>.nor-src-wrap {
@@ -10708,7 +10708,7 @@
                                 .nor-src-icon-v.vicon-3 {
                                     background-image: url(https://b.bdstatic.com/searchbox/icms/searchbox/img/yellow-v.png);
                                 }</style>
-                                <span class="nor-src-wrap">https://you.{{贾成舒}}.com/</span>
+                                <span class="nor-src-wrap">https://you.{{替换姓名}}.com/</span>
                             </a>
 
                             </div>
@@ -10720,7 +10720,7 @@
                      data-click="{'p1':'6','rsv_bdr':'0','fm':'alop',rsv_stl:'5'}">
                     <h3 class="t c-gap-bottom-small">
                         <a href="javascript:;" target="_self">
-                            {{人间相伴！永远在一起！}}</a>
+                            {{替换标题3}}</a>
                     </h3>
                     <style>
                         .op-tieba-general-mainpic {
@@ -10842,8 +10842,8 @@
                             <span style="color:#666;float:right">{{替换日期4-1}}</span>
                             <a href="javascript:;" target="_self">
                                 {{替换内容4-1}}</a>
-                            &nbsp;<span style="color:pink">{{我的眼里只有你，自从遇见你，一切繁华都将成为背景.}}</span>
-                            <br>
+                            &nbsp;<span style="color:pink">{{替换短语4-1}}</span>
+                            <br>{{替换段落4-1}}
                         </div>
                         <div class="c-row">
                             <span style="color:#666;float:right">{{替换日期4-2}}</span>
